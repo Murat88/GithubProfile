@@ -30,15 +30,15 @@ Projeyi kendi bilgisayarınızda yerel olarak çalıştırmak için aşağıdaki
 
 
 
-- Gerekli bağımlılıkları yükleyin:
+1 - Gerekli bağımlılıkları yükleyin:
 
-npm install
+   npm install
 
-- Geliştirme sunucusunu başlatın:
+2 - Geliştirme sunucusunu başlatın:
 
-npm run dev
+   npm run dev
 
-- Tarayıcınızda http://localhost:5173 adresine giderek projeyi görüntüleyin.
+3 - Tarayıcınızda http://localhost:5173 adresine giderek projeyi görüntüleyin.
 
 📂 Proje Yapısı
 src/
