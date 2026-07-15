@@ -28,17 +28,13 @@ Projeyi kendi bilgisayarınızda yerel olarak çalıştırmak için aşağıdaki
    git clone <repo-url>
    cd GithubProfile
 
-
-
-2. **Gerekli bağımlılıkları yükleyin:
-```bash
+2. **Gerekli bağımlılıkları yükleyin:**
    npm install
 
-3. **Geliştirme sunucusunu başlatın:
-```bash
+3. **Geliştirme sunucusunu başlatın:**
    npm run dev
 
-4. **Tarayıcınızda http://localhost:5173 adresine giderek projeyi görüntüleyin.
+4. **Tarayıcınızda http://localhost:5173 adresine giderek projeyi görüntüleyin.**
 
 
 <img width="621" height="152" alt="image" src="https://github.com/user-attachments/assets/393cf6f1-8b1e-4aed-b172-af7a0aee3ad0" />
