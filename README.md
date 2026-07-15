@@ -49,6 +49,9 @@ src/
 ├── RepoList.tsx        # Kullanıcının projelerini listeleyen alt bileşen
 └── main.tsx            # React uygulamasının başlatıldığı ana giriş dosyası
 
+<img width="621" height="152" alt="image" src="https://github.com/user-attachments/assets/393cf6f1-8b1e-4aed-b172-af7a0aee3ad0" />
+
+
 📚 Öğrenilen ve Uygulanan Kavramlar
 Bu proje geliştirilirken aşağıdaki React ve modern web geliştirme kavramları pratik edilmiştir:
 
