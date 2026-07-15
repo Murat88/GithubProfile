@@ -40,14 +40,6 @@ Projeyi kendi bilgisayarınızda yerel olarak çalıştırmak için aşağıdaki
 
 3 - Tarayıcınızda http://localhost:5173 adresine giderek projeyi görüntüleyin.
 
-📂 Proje Yapısı
-src/
-├── About.tsx           # "Hakkında" sayfası bileşeni
-├── App.css             # Uygulamanın genel ve bileşen tasarımları
-├── App.tsx             # Ana uygulama bileşeni (Arama mantığı ve Yönlendirmeler)
-├── ProfileCard.tsx     # Profil detaylarını gösteren alt bileşen (Child Component)
-├── RepoList.tsx        # Kullanıcının projelerini listeleyen alt bileşen
-└── main.tsx            # React uygulamasının başlatıldığı ana giriş dosyası
 
 <img width="621" height="152" alt="image" src="https://github.com/user-attachments/assets/393cf6f1-8b1e-4aed-b172-af7a0aee3ad0" />
 
